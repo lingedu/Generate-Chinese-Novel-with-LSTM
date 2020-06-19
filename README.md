@@ -1,1 +1,1 @@
-# Generating Chinese Novel with LSTM Models
+# Generating Chinese Novel with LSTM
