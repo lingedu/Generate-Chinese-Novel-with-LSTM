@@ -3,4 +3,5 @@ In this repository, I generate a chinese novel using a character-based RNN. Firs
 
 
 ![](https://images.pexels.com/photos/239548/pexels-photo-239548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-Credit: [coursera](https://www.coursera.org/learn/deep-learning-business) 
+Credit: [text generation](https://www.tensorflow.org/tutorials/text/text_generation) 
+        [wirte chinese novel](https://leemeng.tw/how-to-generate-interesting-text-with-tensorflow2-and-tensorflow-js.html)
